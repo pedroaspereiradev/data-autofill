@@ -1,2 +1,4 @@
 # data-autofill
-Task automation project using Python to automate website login and form filling with data from a CSV file.
+This project was developed during the first lesson of the Python Task Automation and Bots course.
+
+The project demonstrates how to automate browser interactions by accessing a website, logging in, reading data from a CSV file, and automatically filling out the website with the extracted information.
